@@ -4,4 +4,4 @@
 ### slack handle: tayloa
 ### Photo of Aaron: 
 
-(images/profile_pic.jpg)
+
