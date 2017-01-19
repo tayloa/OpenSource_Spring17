@@ -3,4 +3,5 @@
 ### github account: tayloa
 ### slack handle: tayloa
 ### Photo of Aaron: 
-[tayloa] (images/profile_pic.jpg)
+
+(images/profile_pic.jpg)
