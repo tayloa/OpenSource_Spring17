@@ -2,4 +2,4 @@
 ### email: tayloa5@rpi.edu 
 ### github account: tayloa
 ### slack handle: tayloa
-Photo of Moorthy ![Moorthy](images/aaron.jpg)
+Photo of Moorthy ![Moorthy](images/profile_pic.jpg)
