@@ -2,5 +2,5 @@
 ### email: tayloa5@rpi.edu 
 ### github account: tayloa
 ### slack handle: tayloa
-### Photo of Aaron:
-(images/profile_pic.jpg)
+### Photo of Aaron: 
+[tayloa] (images/profile_pic.jpg)
