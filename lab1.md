@@ -7,3 +7,5 @@ This event shows how open source can clash with certain business models.I don't 
 ### Console after installing Tree and gettting the directory structure : 
 ![tayloa](images/man_tree.png)
 
+### Completion of Regex Exercises:
+
