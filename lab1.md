@@ -8,4 +8,5 @@ This event shows how open source can clash with certain business models.I don't 
 ![tayloa](images/man_tree.png)
 
 ### Completion of Regex Exercises:
-
+Regex One: Stopped after 7 problems
+![tayloa](images/regex_one.png)
