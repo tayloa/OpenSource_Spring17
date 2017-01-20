@@ -1,7 +1,4 @@
 ## Name: Aaron Taylor (tayloa) - 
-### email: tayloa5@rpi.edu 
-### github account: tayloa
-### slack handle: tayloa
-### Photo of Aaron: 
-![tayloa](images/profile_pic.jpg)
+### Console after installing Tree and gettting the directory structure : 
+![tayloa](images/man_tree.jpg)
 
