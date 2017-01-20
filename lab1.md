@@ -20,7 +20,7 @@ Regex One: Stopped after 7 problems
 ![tayloa](images/regex_7.png)
 
 Regex Crossword Puzzles:
-![tayloa](images/regexcross_1.png)
-![tayloa](images/regexcross_2.png)
-![tayloa](images/regexcross_3.png)
-![tayloa](images/regexcross_4.png)
+![tayloa](images/regex_cross1.png)
+![tayloa](images/regex_cross2.png)
+![tayloa](images/regex_cross3.png)
+![tayloa](images/regex_cross4.png)
