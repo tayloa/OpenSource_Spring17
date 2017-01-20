@@ -9,4 +9,11 @@ This event shows how open source can clash with certain business models.I don't 
 
 ### Completion of Regex Exercises:
 Regex One: Stopped after 7 problems
-![tayloa](images/regex_one.png)
+![tayloa](images/regex_1.png)
+![tayloa](images/regex_2.png)
+![tayloa](images/regex_3.png)
+![tayloa](images/regex_4.png)
+![tayloa](images/regex_5.png)
+![tayloa](images/regex_6.png)
+![tayloa](images/regex_7.png)
+
