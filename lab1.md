@@ -24,3 +24,6 @@ Regex Crossword Puzzles:
 ![tayloa](images/regex_cross2.png)
 ![tayloa](images/regex_cross3.png)
 ![tayloa](images/regex_cross4.png)
+
+### A Problem that Interests Me
+One problem I recently encountereded was quickly adding following people on social media. I see friends find it annoying to open every app they have to try to find another friend's page. If there were a way to somehow scan a code and automatically follow the person on the accounts connected to that code, it would solve this problem.
