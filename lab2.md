@@ -13,6 +13,12 @@ The MIT License provides many benefits to the software producer and user. These 
 ### Which is the best license?
 It seems the Apache/BSD license provides the most benefits for a developer. Unlike the others it provides private use. This allows the developer to make modifications to the software without having to release it to the public. LGPL seems to be the best license for the common good. Despite it's lack of sublicensing, the amount of freedom the license provides allows for derivative works to be easily created and distributed. GPL seems to be the best for companies. Copies can be made of the software, but they are automatically tied to the GPL license, making it easier for changes made to the software to be tracked.
 
+## Project and license:
+See dummy_project on GitHub. 
+
+### Project for semester:
+I would like to work on a project to stream ideas for apps. The target user will be developers looking to to fill an itch to code. This will also involve  
+
 ### Table of Past Projects and Licenses
 |   Website      |   License Present     |    License    |
 | -------------  |-------------          | ------------- |
