@@ -16,5 +16,9 @@ It seems the Apache/BSD license provides the most benefits for a developer. Unli
 ### Table of Past Projects and Licenses
 |   Website      |   License Present     |    License    |
 | -------------  |-------------          | ------------- |
-|                |    Solum              | MIT License   |
+| ARAS: https://github.com/Stashmatic/ARAS |Yes| MIT License: https://en.wikipedia.org/wiki/MIT_License   |
+| CloudBench: https://github.com/CloudBench-IDE/cloudbench |Yes| Apache License: https://en.wikipedia.org/wiki/Apache_License   |
+| FlightTonight: https://github.com/yanx611/flightonight | Yes|  MIT License: https://en.wikipedia.org/wiki/MIT_License |
+| Mini Zero: https://github.com/feldhausenryan/rrs-rcos | Yes|  Custom License: https://github.com/feldhausenryan/RRS-RCOS/blob/master/LICENSE.txt |
+| EMPACplus: https://github.com/hotshot2162/empacplus | Yes|  Apache License: https://en.wikipedia.org/wiki/Apache_License |
 
