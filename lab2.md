@@ -11,10 +11,10 @@ I do agree that Gopher did fail by not following the open systems model. It is a
 The MIT License provides many benefits to the software producer and user. These include no limitations on rights to use, copy, modify, merge, publish, or distribute software.
 
 ### Which is the best license?
-It seems the Apache/BSD license provides the most benefits for a developer. Unlike the others it provides private use. Sublicensing allows whoever is using the license to extend rights that they benefit from to others. 
+It seems the Apache/BSD license provides the most benefits for a developer. Unlike the others it provides private use. This allows the developer to make modifications to the software without having to release it to the public. LGPL seems to be the best license for the common good. Despite it's lack of sublicensing, the amount of freedom the license provides allows for derivative works to be easily created and distributed. GPL seems to be the best for companies. Copies can be made of the software, but they are automatically tied to the GPL license, making it easier for changes made to the software to be tracked.
 
 ### Table of Past Projects and Licenses
-|   Project     |    License    |
-| ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
+|   Website      |   License Present     |    License    |
+| -------------  |-------------          | ------------- |
+|                |    Solum              | MIT License   |
+
