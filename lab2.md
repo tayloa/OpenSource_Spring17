@@ -8,4 +8,10 @@ Without a license there can be legal ramifications. You could be fined for impro
 I do agree that Gopher did fail by not following the open systems model. It is a good example of the benefits of open source. Gopher could have progressed quickly with the creation of a development community and feedback from users.
 
 ### Can you justify such a license?
+The MIT License provides many benefits to the software producer and user. These include no limitations on rights to use, copy, modify, merge, publish, or distribute software.
 
+### Table of Past Projects and Licenses
+| First Header  | Second Header |
+| ------------- | ------------- |
+| Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  |
