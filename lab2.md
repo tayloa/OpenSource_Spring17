@@ -10,8 +10,11 @@ I do agree that Gopher did fail by not following the open systems model. It is a
 ### Can you justify such a license?
 The MIT License provides many benefits to the software producer and user. These include no limitations on rights to use, copy, modify, merge, publish, or distribute software.
 
+### Which is the best license?
+It seems the Apache/BSD license provides the most benefits for a developer. Unlike the others it provides private use. Sublicensing allows whoever is using the license to extend rights that they benefit from to others. 
+
 ### Table of Past Projects and Licenses
-| First Header  | Second Header |
+|   Project     |    License    |
 | ------------- | ------------- |
 | Content Cell  | Content Cell  |
 | Content Cell  | Content Cell  |
