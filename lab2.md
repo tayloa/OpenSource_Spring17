@@ -17,7 +17,7 @@ It seems the Apache/BSD license provides the most benefits for a developer. Unli
 See dummy_project on GitHub. 
 
 ### Project for semester:
-I would like to work on a project to stream ideas for apps. The target user will be developers looking to to fill an itch to code. This will also involve  
+I would like to work on a project to stream ideas for applications. The target users will be developers who want ideas. This will also involve non-developers who will contribute the ideas. Developers will also be given the ability to work for comission and have the option to make the application open source as well. For this project I will probably usetthe MIT License. The amount of freedom it provides is perfect for a simple application such as this.
 
 ### Table of Past Projects and Licenses
 |   Website      |   License Present     |    License    |
