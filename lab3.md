@@ -15,3 +15,13 @@ https://github.com/tayloa/lab3
 ![tayloa](images/git_log_graph.PNG)
 
 # Part 2
+### Forked Spoon-Knife repository
+https://github.com/tayloa/Spoon-Knife
+
+### Branching exercises
+![tayloa](images/level1branching.PNG)
+![tayloa](images/level2branching.PNG)
+![tayloa](images/level3branching.PNG)
+![tayloa](images/level4branching.PNG)
+
+# Part 3
