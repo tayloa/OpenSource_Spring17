@@ -1,8 +1,7 @@
 # Part 0
 a) <br />
-b) $\sqrt{1+2\sqrt{1+3\sqrt{1+4\sqrt{}1+...}}}$ <br />
-   $\sqrt{2}^{\sqrt{2}^{\sqrt{2}^{\sqrt{2...}}}}$ <br />
-   ![tayloa](images/Latexcode.png)
-c) <br />
+$\sqrt{1+2\sqrt{1+3\sqrt{1+4\sqrt{}1+...}}}$ <br />
+$\sqrt{2}^{\sqrt{2}^{\sqrt{2}^{\sqrt{2...}}}}$ <br />
+![tayloa](images/Latexcode.png) <br />
 # Part 1
 # Part 2
