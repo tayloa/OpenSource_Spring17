@@ -11,6 +11,6 @@ $\sqrt{2}^{\sqrt{2}^{\sqrt{2}^{\sqrt{2...}}}}$ <br />
 - the current branches: svg-to-canvas, akamar/d3Start, akamar/Base64Pictures, akamar/refractor-angular-architecture, akmar/gulpify, ak/flowtype<br />
 
 -Gitstats resutls: <br />
-![tayloa](images/treeapp_stats.PNG) <br />
+![tayloa](images/treeapp_stats.png) <br />
 
 # Part 2
