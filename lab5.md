@@ -5,7 +5,7 @@ $\sqrt{2}^{\sqrt{2}^{\sqrt{2}^{\sqrt{2...}}}}$ <br />
 # Part 1
 - Cloned the Canary app <br />
  - Number of contributers: 2<br />
- - Number of lines: 5703<br />
+ - Number of lines: 24603<br />
  - the first commit: Jan 27, 2017 <br />
  - the latest commit: Mar 3, 2017 <br />
  - the current branches: master<br />
