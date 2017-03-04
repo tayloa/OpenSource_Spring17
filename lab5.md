@@ -18,5 +18,5 @@ $\sqrt{2}^{\sqrt{2}^{\sqrt{2}^{\sqrt{2...}}}}$ <br />
 
 -Gitstats resutls: <br />
 ![tayloa](images/treeapp_stats.png) <br />
-![tayloa](images/Canary_stats.png)
+![tayloa](images/canary_stats.png)
 # Part 2
