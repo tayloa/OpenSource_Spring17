@@ -17,14 +17,14 @@ $\sqrt{2}^{\sqrt{2}^{\sqrt{2}^{\sqrt{2...}}}}$ <br />
  - the current branches: svg-to-canvas, akamar/d3Start, akamar/Base64Pictures, akamar/refractor-angular-architecture,    akmar/gulpify, ak/flowtype<br />
  
  ## Streaming Contribution Visualizations
- Canary <br />
- Leader: Sean Maltby <br />
- Visualization:
-![tayloa](images/canary_visualization.png) <br />
- Family Tree App <br />
- Leader: Aesa Kamar <br />
- Visualization:
- ![tayloa](images/treeapp_visualization.png) <br />
+ - Canary <br />
+  - Leader: Sean Maltby <br />
+  - Visualization: <br />
+  - ![tayloa](images/canary_visualization.png) <br />
+ - Family Tree App <br />
+  - Leader: Aesa Kamar <br />
+  - Visualization: <br />
+  - ![tayloa](images/treeapp_visualization.png) <br />
  
 -Gitstats resutls: <br />
 ![tayloa](images/treeapp_stats.png) <br />
