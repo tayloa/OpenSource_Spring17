@@ -20,7 +20,7 @@ $\sqrt{2}^{\sqrt{2}^{\sqrt{2}^{\sqrt{2...}}}}$ <br />
  - Canary <br />
   - Leader: Sean Maltby <br />
   - Visualization: <br />
-  - ![tayloa](images/canary_visualization.png) <br />
+  - ![tayloa](images/canary_vsiualization.png) <br />
  - Family Tree App <br />
   - Leader: Aesa Kamar <br />
   - Visualization: <br />
