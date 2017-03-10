@@ -16,7 +16,7 @@ $\sqrt{2}^{\sqrt{2}^{\sqrt{2}^{\sqrt{2...}}}}$ <br />
  - the latest commit: February 28, 2017 <br />
  - the current branches: svg-to-canvas, akamar/d3Start, akamar/Base64Pictures, akamar/refractor-angular-architecture,    akmar/gulpify, ak/flowtype<br />
  
- Streaming Contribution Visualizations <br />
+ ## Streaming Contribution Visualizations
  Canary <br />
  Leader: Sean Maltby <br />
  Visualization:
