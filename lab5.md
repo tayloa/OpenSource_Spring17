@@ -15,7 +15,17 @@ $\sqrt{2}^{\sqrt{2}^{\sqrt{2}^{\sqrt{2...}}}}$ <br />
  - the first commit: Apr 14, 2016 <br />
  - the latest commit: February 28, 2017 <br />
  - the current branches: svg-to-canvas, akamar/d3Start, akamar/Base64Pictures, akamar/refractor-angular-architecture,    akmar/gulpify, ak/flowtype<br />
-
+ 
+ Streaming Contribution Visualizations <br />
+ Canary <br />
+ Leader: Sean Maltby <br />
+ Visualization:
+![tayloa](images/canary_visualization.png) <br />
+ Family Tree App <br />
+ Leader: Aesa Kamar <br />
+ Visualization:
+ ![tayloa](images/treeapp_visualization.png) <br />
+ 
 -Gitstats resutls: <br />
 ![tayloa](images/treeapp_stats.png) <br />
 ![tayloa](images/canary_stats.png)
