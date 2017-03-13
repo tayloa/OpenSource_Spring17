@@ -3,7 +3,7 @@
     2.   `nodes` to `graph`
     3.   `pound` to `marks`</br>
 ![tayloa](images/shortest_paths_1.PNG)
-    4.   `moron` to `smart`
+    4.   `moron` to `smart` </br>
 ![tayloa](images/shortest_paths_2.PNG) </br>
 
 - Word ladder with the following words (4 letters)
