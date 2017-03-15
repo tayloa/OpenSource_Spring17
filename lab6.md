@@ -20,13 +20,21 @@
     4.   `pound` to `marks` </br>
 ![tayloa](images/shortest_paths_4.PNG) </br>
 - Words that precede: SLID, DOTE, HERD and OMEN 
-    - SLID:
-    - DOTE:
-    - HERD:
-    - OMEN:
+    - SLID: </br>
+![tayloa](images/slid.PNG)
+    - DOTE: </br>
+![tayloa](images/dote.PNG)
+    - HERD: </br>
+![tayloa](images/herd.PNG)
+    - OMEN: </br>
+![tayloa](images/omen.PNG)
 - Words that follow: NINE, SELL, STAT and WHAT
-    - NINE:
-    - SELL:
-    - STAT:
-    - WHAT:
+    - NINE: </br>
+![tayloa](images/nine.PNG)
+    - SELL: </br>
+![tayloa](images/sell.PNG)
+    - STAT: </br>
+![tayloa](images/stat.PNG)
+    - WHAT: </br>
+![tayloa](images/what.PNG)
 
