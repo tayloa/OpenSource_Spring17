@@ -19,4 +19,14 @@
     3.   `moron` to `smart`
     4.   `pound` to `marks` </br>
 ![tayloa](images/shortest_paths_4.PNG) </br>
+- Words that precede: SLID, DOTE, HERD and OMEN 
+    - SLID:
+    - DOTE:
+    - HERD:
+    - OMEN:
+- Words that follow: NINE, SELL, STAT and WHAT
+    - NINE:
+    - SELL:
+    - STAT:
+    - WHAT:
 
