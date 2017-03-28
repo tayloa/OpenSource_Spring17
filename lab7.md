@@ -15,3 +15,10 @@
 #### Graph with Nodes </br>
 ![tayloa](images/admissions_graph.png)
 
+## 4. Election and Movie Data
+### Election Data </br>
+#### States Bush Won  </br>
+#### States Bush Lost  </br>
+### Movie Data  </br>
+#### Movies With "Man" in the Title  </br>
+#### Movies With "He" in the Title  </br>
