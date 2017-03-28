@@ -6,7 +6,7 @@
 ![tayloa](images/admissions_rules.PNG)
 ### Visualizations for Admissions Rules
 #### Scatter Plot  </br>
-![tayloa](images/admissions_scatter.PNG)
+![tayloa](images/admissions_scatter.png)
 #### Graph with Nodes </br>
-![tayloa](images/admissions_graph.PNG)
+![tayloa](images/admissions_graph.png)
 
