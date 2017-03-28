@@ -6,9 +6,9 @@
 ![tayloa](images/admissions_rules.PNG)
 ### Data Sorted by Rank  </br>
 #### Rank 1
-![tayloa](images/admissions_sorted_rank1.png)
+![tayloa](images/admissions_sorted_rank1.PNG)
 #### Rank 2
-![tayloa](images/admissions_sorted_rank2.png)
+![tayloa](images/admissions_sorted_rank2.PNG)
 ### Data Sorted with Differnt Supp and Conf  </br>
 ![tayloa](images/admissions_scatter.png)
 ### Visualizations for Admissions Rules
