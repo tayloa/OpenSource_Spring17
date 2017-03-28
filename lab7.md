@@ -17,8 +17,16 @@
 
 ## 4. Election and Movie Data
 ### Election Data </br>
+![tayloa](images/admissions_scatter.png)
 #### States Bush Won  </br>
+![tayloa](images/admissions_scatter.png)
 #### States Bush Lost  </br>
+![tayloa](images/admissions_scatter.png)
+
 ### Movie Data  </br>
+![tayloa](images/admissions_scatter.png)
 #### Movies With "Man" in the Title  </br>
-#### Movies With "He" in the Title  </br>
+![tayloa](images/admissions_scatter.png)
+#### Movies Released in September   </br>
+![tayloa](images/admissions_scatter.png)
+
